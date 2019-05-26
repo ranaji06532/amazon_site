@@ -1,0 +1,21 @@
+$color-dark: #232F3E;
+$color-darker: darken($color-dark, 10%);
+$color-medium-dark: darken($color-dark, 5%);
+$color-light: lighten($color-dark, 10%);
+$color-lighter: lighten($color-dark, 30%);
+$color-medium-light: lighten($color-dark, 20%);
+
+$color-white: #ffffff;
+$color-black: invert($color-white);
+$color-grey-lighten:#CCCCCC;
+$color-grey-light : #DADADA;
+$color-grey: darken($color-grey-light, 10%);
+
+$color-grey-dark: #666666;
+$color-border: #CDCDCD;
+$color-triangle:#A7ACB2;
+$color-orange-light:#F3A847;
+$color-orange:darken($color-orange-light, 10%);
+
+
+

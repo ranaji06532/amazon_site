@@ -1,0 +1,4 @@
+#git commit ignore
+
+**/*.css
+**/*.css.map
